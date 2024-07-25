@@ -1,0 +1,1112 @@
+[
+    {
+        "Cars": "Volkswagen ID.3 (Pro)",
+        "Battery Capacity (kWh)": "58",
+        "Range (miles)": "269",
+        "Charging Speed (miles/min)": "9.3"
+    },
+    {
+        "Cars": "Volkswagen ID.3 (Pro S)",
+        "Battery Capacity (kWh)": "58",
+        "Range (miles)": "356",
+        "Charging Speed (miles/min)": "13.1"
+    },
+    {
+        "Cars": "Volkswagen ID.4 (Pure Life)",
+        "Battery Capacity (kWh)": "52",
+        "Range (miles)": "223",
+        "Charging Speed (miles/min)": "7.9"
+    },
+    {
+        "Cars": "Volkswagen ID.4 (Pro Life)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "326",
+        "Charging Speed (miles/min)": "9.5"
+    },
+    {
+        "Cars": "Volkswagen ID.4 (Pro Performance Life)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "325",
+        "Charging Speed (miles/min)": "9.5"
+    },
+    {
+        "Cars": "Volkswagen ID.4 (Pro Performance Style)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "322",
+        "Charging Speed (miles/min)": "9.4"
+    },
+    {
+        "Cars": "Volkswagen ID.4 (Pro Style)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "322",
+        "Charging Speed (miles/min)": "9.4"
+    },
+    {
+        "Cars": "Volkswagen ID.4 (Pro Performance 4MOTION)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "314",
+        "Charging Speed (miles/min)": "9.2"
+    },
+    {
+        "Cars": "Volkswagen ID.4 (Pure Performance Life)",
+        "Battery Capacity (kWh)": "52",
+        "Range (miles)": "223",
+        "Charging Speed (miles/min)": "7.9"
+    },
+    {
+        "Cars": "Volkswagen ID.4 (Pure Style)",
+        "Battery Capacity (kWh)": "52",
+        "Range (miles)": "221",
+        "Charging Speed (miles/min)": "7.8"
+    },
+    {
+        "Cars": "Volkswagen ID.4 (GTX)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "306",
+        "Charging Speed (miles/min)": "8.9"
+    },
+    {
+        "Cars": "Volkswagen ID.5 (Pro Performance Style)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "326",
+        "Charging Speed (miles/min)": "9.5"
+    },
+    {
+        "Cars": "Volkswagen ID.5 (Pro Tech)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "323",
+        "Charging Speed (miles/min)": "9.4"
+    },
+    {
+        "Cars": "Volkswagen ID.5 (GTX 4MOTION)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "313",
+        "Charging Speed (miles/min)": "11.5"
+    },
+    {
+        "Cars": "Volkswagen ID.Buzz",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "252",
+        "Charging Speed (miles/min)": "9.3"
+    },
+    {
+        "Cars": "Toyota bZ4X (Pure)",
+        "Battery Capacity (kWh)": "71.4",
+        "Range (miles)": "271",
+        "Charging Speed (miles/min)": "9.5"
+    },
+    {
+        "Cars": "Toyota bZ4X (Motion)",
+        "Battery Capacity (kWh)": "71.4",
+        "Range (miles)": "271",
+        "Charging Speed (miles/min)": "9.5"
+    },
+    {
+        "Cars": "Toyota bZ4X (Vision)",
+        "Battery Capacity (kWh)": "71.4",
+        "Range (miles)": "271",
+        "Charging Speed (miles/min)": "9.5"
+    },
+    {
+        "Cars": "Toyota bZ4X (Motion 160 kW)",
+        "Battery Capacity (kWh)": "71.4",
+        "Range (miles)": "255",
+        "Charging Speed (miles/min)": "9.5"
+    },
+    {
+        "Cars": "Toyota bZ4X (Vision 160 kW)",
+        "Battery Capacity (kWh)": "71.4",
+        "Range (miles)": "255",
+        "Charging Speed (miles/min)": "8.9"
+    },
+    {
+        "Cars": "Volvo EC40 (Twin Motor)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "263",
+        "Charging Speed (miles/min)": "10.7"
+    },
+    {
+        "Cars": "Volvo EC40 (Single Motor)",
+        "Battery Capacity (kWh)": "69",
+        "Range (miles)": "254",
+        "Charging Speed (miles/min)": "8"
+    },
+    {
+        "Cars": "Audi e-tron (GT)",
+        "Battery Capacity (kWh)": "83.7",
+        "Range (miles)": "285",
+        "Charging Speed (miles/min)": "13.7"
+    },
+    {
+        "Cars": "Audi e-tron (RS)",
+        "Battery Capacity (kWh)": "83.7",
+        "Range (miles)": "278",
+        "Charging Speed (miles/min)": "13.4"
+    },
+    {
+        "Cars": "Audi Q4 e-tron (40)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "278",
+        "Charging Speed (miles/min)": "7.6"
+    },
+    {
+        "Cars": "Audi Q4 e-tron (50)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "270",
+        "Charging Speed (miles/min)": "7.4"
+    },
+    {
+        "Cars": "Audi Q4 Sportback e-tron (40)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "277",
+        "Charging Speed (miles/min)": "7.6"
+    },
+    {
+        "Cars": "Audi Q4 Sportback e-tron (50)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "277",
+        "Charging Speed (miles/min)": "7.6"
+    },
+    {
+        "Cars": "Audi Q8 e-tron",
+        "Battery Capacity (kWh)": "95",
+        "Range (miles)": "255",
+        "Charging Speed (miles/min)": "6.7"
+    },
+    {
+        "Cars": "Audi Q8 Sportback e-tron",
+        "Battery Capacity (kWh)": "114",
+        "Range (miles)": "303",
+        "Charging Speed (miles/min)": "7.5"
+    },
+    {
+        "Cars": "Tesla Model Y (Long Range AWD)",
+        "Battery Capacity (kWh)": "85",
+        "Range (miles)": "331",
+        "Charging Speed (miles/min)": "16.2"
+    },
+    {
+        "Cars": "Tesla Model Y (Performance)",
+        "Battery Capacity (kWh)": "85",
+        "Range (miles)": "319",
+        "Charging Speed (miles/min)": "15.6"
+    },
+    {
+        "Cars": "Tesla Model Y",
+        "Battery Capacity (kWh)": "85",
+        "Range (miles)": "283",
+        "Charging Speed (miles/min)": "12.8"
+    },
+    {
+        "Cars": "BMW i4 M50",
+        "Battery Capacity (kWh)": "81.1",
+        "Range (miles)": "284",
+        "Charging Speed (miles/min)": "11.6"
+    },
+    {
+        "Cars": "BMW i4 eDrive35 (M Sport)",
+        "Battery Capacity (kWh)": "67",
+        "Range (miles)": "276",
+        "Charging Speed (miles/min)": "11.8"
+    },
+    {
+        "Cars": "BMW i4 eDrive35 (Sport)",
+        "Battery Capacity (kWh)": "67",
+        "Range (miles)": "284",
+        "Charging Speed (miles/min)": "12.1"
+    },
+    {
+        "Cars": "BMW i4 eDrive40 (M Sport)",
+        "Battery Capacity (kWh)": "81.1",
+        "Range (miles)": "337",
+        "Charging Speed (miles/min)": "13.7"
+    },
+    {
+        "Cars": "BMW i4 eDrive40 (Sport)",
+        "Battery Capacity (kWh)": "81.1",
+        "Range (miles)": "346",
+        "Charging Speed (miles/min)": "14.1"
+    },
+    {
+        "Cars": "BMW i7 xDrive60 (M Sport Pro)",
+        "Battery Capacity (kWh)": "105.7",
+        "Range (miles)": "367",
+        "Charging Speed (miles/min)": "11.3"
+    },
+    {
+        "Cars": "BMW i7 xDrive60 (Excellence)",
+        "Battery Capacity (kWh)": "105.7",
+        "Range (miles)": "360",
+        "Charging Speed (miles/min)": "11.1"
+    },
+    {
+        "Cars": "BMW i7 xDrive60 (Excellence Pro)",
+        "Battery Capacity (kWh)": "105.7",
+        "Range (miles)": "360",
+        "Charging Speed (miles/min)": "11.1"
+    },
+    {
+        "Cars": "BMW iX xDrive40",
+        "Battery Capacity (kWh)": "76.6",
+        "Range (miles)": "253",
+        "Charging Speed (miles/min)": "8.3"
+    },
+    {
+        "Cars": "BMW iX xDrive50 M Sport",
+        "Battery Capacity (kWh)": "111.5",
+        "Range (miles)": "367",
+        "Charging Speed (miles/min)": "10.7"
+    },
+    {
+        "Cars": "BMW iX M60",
+        "Battery Capacity (kWh)": "111.5",
+        "Range (miles)": "338",
+        "Charging Speed (miles/min)": "9.9"
+    },
+    {
+        "Cars": "BMW iX xDrive40 M Sport",
+        "Battery Capacity (kWh)": "76.6",
+        "Range (miles)": "253",
+        "Charging Speed (miles/min)": "8.3"
+    },
+    {
+        "Cars": "BMW iX1",
+        "Battery Capacity (kWh)": "66.5",
+        "Range (miles)": "259",
+        "Charging Speed (miles/min)": "8.4"
+    },
+    {
+        "Cars": "BMW iX3 (M Sport Pro)",
+        "Battery Capacity (kWh)": "80",
+        "Range (miles)": "280",
+        "Charging Speed (miles/min)": "8.8"
+    },
+    {
+        "Cars": "BMW iX3 (M Sport)",
+        "Battery Capacity (kWh)": "80",
+        "Range (miles)": "284",
+        "Charging Speed (miles/min)": "8.9"
+    },
+    {
+        "Cars": "Tesla Model 3 (Rear-Wheel Drive)",
+        "Battery Capacity (kWh)": "61",
+        "Range (miles)": "318",
+        "Charging Speed (miles/min)": "14.8"
+    },
+    {
+        "Cars": "Tesla Model 3 (Long Range All Wheel Drive)",
+        "Battery Capacity (kWh)": "61",
+        "Range (miles)": "390",
+        "Charging Speed (miles/min)": "19.1"
+    },
+    {
+        "Cars": "BYD Atto3",
+        "Battery Capacity (kWh)": "60.48",
+        "Range (miles)": "260",
+        "Charging Speed (miles/min)": "6.3"
+    },
+    {
+        "Cars": "Citroen E - Berlingo (XL)",
+        "Battery Capacity (kWh)": "52",
+        "Range (miles)": "167",
+        "Charging Speed (miles/min)": "5.6"
+    },
+    {
+        "Cars": "Citroen E - Berlingo (M)",
+        "Battery Capacity (kWh)": "52",
+        "Range (miles)": "177",
+        "Charging Speed (miles/min)": "5.9"
+    },
+    {
+        "Cars": "Citroen E-C4",
+        "Battery Capacity (kWh)": "50",
+        "Range (miles)": "222",
+        "Charging Speed (miles/min)": "7.4"
+    },
+    {
+        "Cars": "Citroen E-C4 (54 kWh)",
+        "Battery Capacity (kWh)": "54",
+        "Range (miles)": "260",
+        "Charging Speed (miles/min)": "8"
+    },
+    {
+        "Cars": "Citroen E-C4 (X 54 kWh)",
+        "Battery Capacity (kWh)": "54",
+        "Range (miles)": "260",
+        "Charging Speed (miles/min)": "8"
+    },
+    {
+        "Cars": "Citroen E-SpaceTourer (M)",
+        "Battery Capacity (kWh)": "50",
+        "Range (miles)": "136",
+        "Charging Speed (miles/min)": "4.5"
+    },
+    {
+        "Cars": "Citroen E-SpaceTourer (XL)",
+        "Battery Capacity (kWh)": "50",
+        "Range (miles)": "134",
+        "Charging Speed (miles/min)": "4.5"
+    },
+    {
+        "Cars": "Cupra Born",
+        "Battery Capacity (kWh)": "58",
+        "Range (miles)": "223",
+        "Charging Speed (miles/min)": "7.7"
+    },
+    {
+        "Cars": "Cupra Born (58 kWh e-Boost)",
+        "Battery Capacity (kWh)": "58",
+        "Range (miles)": "225",
+        "Charging Speed (miles/min)": "7.8"
+    },
+    {
+        "Cars": "Cupra Born (77 kWh e-Boost)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "306",
+        "Charging Speed (miles/min)": "8.9"
+    },
+    {
+        "Cars": "DS 3",
+        "Battery Capacity (kWh)": "54",
+        "Range (miles)": "232",
+        "Charging Speed (miles/min)": "7.2"
+    },
+    {
+        "Cars": "Fiat 500 (Convertible)",
+        "Battery Capacity (kWh)": "42",
+        "Range (miles)": "191",
+        "Charging Speed (miles/min)": "6.4"
+    },
+    {
+        "Cars": "Fiat 500 (Electric)",
+        "Battery Capacity (kWh)": "42",
+        "Range (miles)": "201",
+        "Charging Speed (miles/min)": "6.8"
+    },
+    {
+        "Cars": "Ford Mustang Mach-E (Select)",
+        "Battery Capacity (kWh)": "72",
+        "Range (miles)": "202",
+        "Charging Speed (miles/min)": "5.2"
+    },
+    {
+        "Cars": "Ford Mustang Mach-E (GT)",
+        "Battery Capacity (kWh)": "91",
+        "Range (miles)": "244",
+        "Charging Speed (miles/min)": "6.2"
+    },
+    {
+        "Cars": "Ford Mustang Mach-E (Premium RWD)",
+        "Battery Capacity (kWh)": "91",
+        "Range (miles)": "293",
+        "Charging Speed (miles/min)": "7.5"
+    },
+    {
+        "Cars": "Ford Mustang Mach-E (Premium AWD)",
+        "Battery Capacity (kWh)": "91",
+        "Range (miles)": "277",
+        "Charging Speed (miles/min)": "7.1"
+    },
+    {
+        "Cars": "Genesis Electrified G80",
+        "Battery Capacity (kWh)": "87.2",
+        "Range (miles)": "323",
+        "Charging Speed (miles/min)": "14.3"
+    },
+    {
+        "Cars": "Genesis GV60 (Premium)",
+        "Battery Capacity (kWh)": "77.4",
+        "Range (miles)": "321",
+        "Charging Speed (miles/min)": "16.6"
+    },
+    {
+        "Cars": "Genesis GV60 (Sport Plus)",
+        "Battery Capacity (kWh)": "77.4",
+        "Range (miles)": "289",
+        "Charging Speed (miles/min)": "14.9"
+    },
+    {
+        "Cars": "Genesis GV60 (Sport)",
+        "Battery Capacity (kWh)": "77.4",
+        "Range (miles)": "292",
+        "Charging Speed (miles/min)": "15.1"
+    },
+    {
+        "Cars": "Genesis Electrified GV70",
+        "Battery Capacity (kWh)": "77.4",
+        "Range (miles)": "283",
+        "Charging Speed (miles/min)": "21.3"
+    },
+    {
+        "Cars": "Honda E",
+        "Battery Capacity (kWh)": "35.5",
+        "Range (miles)": "137",
+        "Charging Speed (miles/min)": "6.4"
+    },
+    {
+        "Cars": "Hyundai Ioniq 5 (Premium)",
+        "Battery Capacity (kWh)": "58",
+        "Range (miles)": "239",
+        "Charging Speed (miles/min)": "12"
+    },
+    {
+        "Cars": "Hyundai Ioniq 5 (Ultimate AWD)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "282",
+        "Charging Speed (miles/min)": "14.2"
+    },
+    {
+        "Cars": "Hyundai Ioniq 5 (Namsan AWD)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "282",
+        "Charging Speed (miles/min)": "14.2"
+    },
+    {
+        "Cars": "Hyundai Ioniq 5 (Premium 77 AWD)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "299",
+        "Charging Speed (miles/min)": "15.1"
+    },
+    {
+        "Cars": "Hyundai Ioniq 5 (Ultimate)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "296",
+        "Charging Speed (miles/min)": "14.9"
+    },
+    {
+        "Cars": "Hyundai Ioniq 5 (Namsan)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "296",
+        "Charging Speed (miles/min)": "14.9"
+    },
+    {
+        "Cars": "Hyundai Ioniq 5 (Premium 77)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "315",
+        "Charging Speed (miles/min)": "15.9"
+    },
+    {
+        "Cars": "Hyundai Ioniq 6 (Ultimate)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "339",
+        "Charging Speed (miles/min)": "17"
+    },
+    {
+        "Cars": "Hyundai Ioniq 6 (Premium AWD)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "322",
+        "Charging Speed (miles/min)": "16.2"
+    },
+    {
+        "Cars": "Hyundai Ioniq 6 (Ultimate AWD)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "322",
+        "Charging Speed (miles/min)": "16.2"
+    },
+    {
+        "Cars": "Hyundai Ioniq 6 (First Edition AWD)",
+        "Battery Capacity (kWh)": "77",
+        "Range (miles)": "322",
+        "Charging Speed (miles/min)": "16.2"
+    },
+    {
+        "Cars": "Hyundai Kona (SE Connect)",
+        "Battery Capacity (kWh)": "39.2",
+        "Range (miles)": "190",
+        "Charging Speed (miles/min)": "9.2"
+    },
+    {
+        "Cars": "Hyundai Kona (Premium)",
+        "Battery Capacity (kWh)": "39.2",
+        "Range (miles)": "190",
+        "Charging Speed (miles/min)": "9.2"
+    },
+    {
+        "Cars": "Hyundai Kona (Premium 64)",
+        "Battery Capacity (kWh)": "64",
+        "Range (miles)": "301",
+        "Charging Speed (miles/min)": "13.3"
+    },
+    {
+        "Cars": "Hyundai Kona (Ultimate)",
+        "Battery Capacity (kWh)": "64",
+        "Range (miles)": "301",
+        "Charging Speed (miles/min)": "13.3"
+    },
+    {
+        "Cars": "Jaguar I-Pace",
+        "Battery Capacity (kWh)": "90",
+        "Range (miles)": "290",
+        "Charging Speed (miles/min)": "5.4"
+    },
+    {
+        "Cars": "Kia EV6 (GT awd)",
+        "Battery Capacity (kWh)": "77.4",
+        "Range (miles)": "263",
+        "Charging Speed (miles/min)": "14.6"
+    },
+    {
+        "Cars": "Kia EV6 (GT- Line S awd)",
+        "Battery Capacity (kWh)": "77.4",
+        "Range (miles)": "300",
+        "Charging Speed (miles/min)": "16.7"
+    },
+    {
+        "Cars": "Kia EV6 (GT-Line awd)",
+        "Battery Capacity (kWh)": "77.4",
+        "Range (miles)": "314",
+        "Charging Speed (miles/min)": "17.4"
+    },
+    {
+        "Cars": "Kia EV6 (GT-Line S rwd)",
+        "Battery Capacity (kWh)": "77.4",
+        "Range (miles)": "313",
+        "Charging Speed (miles/min)": "17.4"
+    },
+    {
+        "Cars": "Kia EV6 (Air)",
+        "Battery Capacity (kWh)": "77.4",
+        "Range (miles)": "328",
+        "Charging Speed (miles/min)": "18.2"
+    },
+    {
+        "Cars": "Kia EV6 (GT-Line rwd)",
+        "Battery Capacity (kWh)": "77.4",
+        "Range (miles)": "328",
+        "Charging Speed (miles/min)": "18.2"
+    },
+    {
+        "Cars": "Kia Niro EV",
+        "Battery Capacity (kWh)": "64.8",
+        "Range (miles)": "285",
+        "Charging Speed (miles/min)": "5.2"
+    },
+    {
+        "Cars": "Kia Soul EV (Urban)",
+        "Battery Capacity (kWh)": "39.2",
+        "Range (miles)": "171",
+        "Charging Speed (miles/min)": "5.2"
+    },
+    {
+        "Cars": "Kia Soul EV (Explore)",
+        "Battery Capacity (kWh)": "64.8",
+        "Range (miles)": "280",
+        "Charging Speed (miles/min)": "5.3"
+    },
+    {
+        "Cars": "Lexus (RZ)",
+        "Battery Capacity (kWh)": "71",
+        "Range (miles)": "272",
+        "Charging Speed (miles/min)": "9.5"
+    },
+    {
+        "Cars": "Lexus (UX)",
+        "Battery Capacity (kWh)": "73",
+        "Range (miles)": "279",
+        "Charging Speed (miles/min)": "3.2"
+    },
+    {
+        "Cars": "Vauxhall Vivaro Life Electric",
+        "Battery Capacity (kWh)": "50",
+        "Range (miles)": "135",
+        "Charging Speed (miles/min)": "4.5"
+    },
+    {
+        "Cars": "Vauxhall Mokka",
+        "Battery Capacity (kWh)": "100",
+        "Range (miles)": "203",
+        "Charging Speed (miles/min)": "5.4"
+    },
+    {
+        "Cars": "Vauxhall Corsa",
+        "Battery Capacity (kWh)": "50",
+        "Range (miles)": "222",
+        "Charging Speed (miles/min)": "7.4"
+    },
+    {
+        "Cars": "Vauxhall Combo Life Electric",
+        "Battery Capacity (kWh)": "48",
+        "Range (miles)": "173",
+        "Charging Speed (miles/min)": "5.8"
+    },
+    {
+        "Cars": "Mazda MX-30",
+        "Battery Capacity (kWh)": "36",
+        "Range (miles)": "124",
+        "Charging Speed (miles/min)": "2.9"
+    },
+    {
+        "Cars": "Mercedes EQA (350 4Matic)",
+        "Battery Capacity (kWh)": "66.5",
+        "Range (miles)": "260",
+        "Charging Speed (miles/min)": "6.5"
+    },
+    {
+        "Cars": "Mercedes EQA (300 4Matic)",
+        "Battery Capacity (kWh)": "66.5",
+        "Range (miles)": "266",
+        "Charging Speed (miles/min)": "6.7"
+    },
+    {
+        "Cars": "Mercedes EQA (250+)",
+        "Battery Capacity (kWh)": "70.5",
+        "Range (miles)": "321",
+        "Charging Speed (miles/min)": "7.6"
+    },
+    {
+        "Cars": "Mercedes EQB SUV (300 4Matic)",
+        "Battery Capacity (kWh)": "66.5",
+        "Range (miles)": "253",
+        "Charging Speed (miles/min)": "6.3"
+    },
+    {
+        "Cars": "Mercedes EQB SUV (350 4Matic)",
+        "Battery Capacity (kWh)": "66.5",
+        "Range (miles)": "253",
+        "Charging Speed (miles/min)": "6.3"
+    },
+    {
+        "Cars": "Mercedes EQC",
+        "Battery Capacity (kWh)": "80",
+        "Range (miles)": "254",
+        "Charging Speed (miles/min)": "5.9"
+    },
+    {
+        "Cars": "Mercedes EQE (AMG 53 4Matic+)",
+        "Battery Capacity (kWh)": "90.56",
+        "Range (miles)": "291",
+        "Charging Speed (miles/min)": "9.1"
+    },
+    {
+        "Cars": "Mercedes EQE (300)",
+        "Battery Capacity (kWh)": "89",
+        "Range (miles)": "388",
+        "Charging Speed (miles/min)": "12.4"
+    },
+    {
+        "Cars": "Mercedes EQE (350)",
+        "Battery Capacity (kWh)": "96",
+        "Range (miles)": "368",
+        "Charging Speed (miles/min)": "11.7"
+    },
+    {
+        "Cars": "Mercedes EQE SUV (350 4Matic)",
+        "Battery Capacity (kWh)": "89",
+        "Range (miles)": "334",
+        "Charging Speed (miles/min)": "10.6"
+    },
+    {
+        "Cars": "Mercedes EQE SUV (500 4Matic)",
+        "Battery Capacity (kWh)": "89",
+        "Range (miles)": "324",
+        "Charging Speed (miles/min)": "10.1"
+    },
+    {
+        "Cars": "Mercedes EQE SUV (AMG 53 4Matic+)",
+        "Battery Capacity (kWh)": "89",
+        "Range (miles)": "265",
+        "Charging Speed (miles/min)": "7.6"
+    },
+    {
+        "Cars": "Mercedes EQS (450+)",
+        "Battery Capacity (kWh)": "118",
+        "Range (miles)": "452",
+        "Charging Speed (miles/min)": "13"
+    },
+    {
+        "Cars": "Mercedes EQS (EQS AMG 53 4Matic+)",
+        "Battery Capacity (kWh)": "118",
+        "Range (miles)": "347",
+        "Charging Speed (miles/min)": "10"
+    },
+    {
+        "Cars": "Mercedes EQS SUV (450 4Matic) ",
+        "Battery Capacity (kWh)": "118",
+        "Range (miles)": "365",
+        "Charging Speed (miles/min)": "11.2"
+    },
+    {
+        "Cars": "Mercedes EQS SUV (580 4Matic) ",
+        "Battery Capacity (kWh)": "118",
+        "Range (miles)": "364",
+        "Charging Speed (miles/min)": "11.2"
+    },
+    {
+        "Cars": "Mercedes eVito Tourer ",
+        "Battery Capacity (kWh)": "90",
+        "Range (miles)": "213",
+        "Charging Speed (miles/min)": "5.9"
+    },
+    {
+        "Cars": "MG MG4 EV (SE)",
+        "Battery Capacity (kWh)": "51",
+        "Range (miles)": "218",
+        "Charging Speed (miles/min)": "10.7"
+    },
+    {
+        "Cars": "MG MG4 EV (Trophy Long Range)",
+        "Battery Capacity (kWh)": "51",
+        "Range (miles)": "270",
+        "Charging Speed (miles/min)": "10.5"
+    },
+    {
+        "Cars": "MG MG4 EV (SE Long Range)",
+        "Battery Capacity (kWh)": "51",
+        "Range (miles)": "281",
+        "Charging Speed (miles/min)": "11"
+    },
+    {
+        "Cars": "MG MG5 EV (SE Long Range)",
+        "Battery Capacity (kWh)": "61",
+        "Range (miles)": "250",
+        "Charging Speed (miles/min)": "10.2"
+    },
+    {
+        "Cars": "MG MG5 EV (Trophy Long Range)",
+        "Battery Capacity (kWh)": "61",
+        "Range (miles)": "235",
+        "Charging Speed (miles/min)": "9.6"
+    },
+    {
+        "Cars": "MG ZS EV (SE)",
+        "Battery Capacity (kWh)": "51",
+        "Range (miles)": "198",
+        "Charging Speed (miles/min)": "6.5"
+    },
+    {
+        "Cars": "MG ZS EV (SE Long Range)",
+        "Battery Capacity (kWh)": "51",
+        "Range (miles)": "273",
+        "Charging Speed (miles/min)": "6.3"
+    },
+    {
+        "Cars": "MG ZS EV (Trophy)",
+        "Battery Capacity (kWh)": "51",
+        "Range (miles)": "198",
+        "Charging Speed (miles/min)": "6.5"
+    },
+    {
+        "Cars": "MG ZS EV (Trophy Long Range)",
+        "Battery Capacity (kWh)": "51",
+        "Range (miles)": "273",
+        "Charging Speed (miles/min)": "6.3"
+    },
+    {
+        "Cars": "Mini Electric ",
+        "Battery Capacity (kWh)": "33",
+        "Range (miles)": "144",
+        "Charging Speed (miles/min)": "3.7"
+    },
+    {
+        "Cars": "Nissan Ariya (63kWh Evolve)",
+        "Battery Capacity (kWh)": "63",
+        "Range (miles)": "247",
+        "Charging Speed (miles/min)": "8.5"
+    },
+    {
+        "Cars": "Nissan Ariya (63kWh Advance)",
+        "Battery Capacity (kWh)": "63",
+        "Range (miles)": "250",
+        "Charging Speed (miles/min)": "8.6"
+    },
+    {
+        "Cars": "Nissan Ariya (e-4orce 87kWh Evolve)",
+        "Battery Capacity (kWh)": "87",
+        "Range (miles)": "314",
+        "Charging Speed (miles/min)": "7.8"
+    },
+    {
+        "Cars": "Nissan Ariya (e-4orce 87kWh Advance)",
+        "Battery Capacity (kWh)": "87",
+        "Range (miles)": "319",
+        "Charging Speed (miles/min)": "7.9"
+    },
+    {
+        "Cars": "Nissan Ariya (87 kWh Evolve)",
+        "Battery Capacity (kWh)": "87",
+        "Range (miles)": "322",
+        "Charging Speed (miles/min)": "8"
+    },
+    {
+        "Cars": "Nissan Ariya (87kWh Advance)",
+        "Battery Capacity (kWh)": "87",
+        "Range (miles)": "329",
+        "Charging Speed (miles/min)": "8.2"
+    },
+    {
+        "Cars": "Nissan Leaf (Acenta)",
+        "Battery Capacity (kWh)": "39",
+        "Range (miles)": "168",
+        "Charging Speed (miles/min)": "3.6"
+    },
+    {
+        "Cars": "Nissan Leaf (N-Connecta)",
+        "Battery Capacity (kWh)": "39",
+        "Range (miles)": "168",
+        "Charging Speed (miles/min)": "3.6"
+    },
+    {
+        "Cars": "Nissan Leaf (Tekna)",
+        "Battery Capacity (kWh)": "39",
+        "Range (miles)": "168",
+        "Charging Speed (miles/min)": "3.6"
+    },
+    {
+        "Cars": "Nissan Leaf (e+ N-Connecta)",
+        "Battery Capacity (kWh)": "39",
+        "Range (miles)": "239",
+        "Charging Speed (miles/min)": "3.4"
+    },
+    {
+        "Cars": "Nissan Leaf (e+ Tekna)",
+        "Battery Capacity (kWh)": "39",
+        "Range (miles)": "239",
+        "Charging Speed (miles/min)": "3.4"
+    },
+    {
+        "Cars": "Ora Funky Cat",
+        "Battery Capacity (kWh)": "48",
+        "Range (miles)": "193",
+        "Charging Speed (miles/min)": "4.3"
+    },
+    {
+        "Cars": "Peugeot e-2008",
+        "Battery Capacity (kWh)": "54",
+        "Range (miles)": "206",
+        "Charging Speed (miles/min)": "6.4"
+    },
+    {
+        "Cars": "Peugeot e-208",
+        "Battery Capacity (kWh)": "50",
+        "Range (miles)": "218",
+        "Charging Speed (miles/min)": "7.3"
+    },
+    {
+        "Cars": "Peugeot e-Rifter (Long 50 kWh Allure)",
+        "Battery Capacity (kWh)": "50",
+        "Range (miles)": "152",
+        "Charging Speed (miles/min)": "5.1"
+    },
+    {
+        "Cars": "Peugeot e-Rifter",
+        "Battery Capacity (kWh)": "50",
+        "Range (miles)": "182",
+        "Charging Speed (miles/min)": "6.1"
+    },
+    {
+        "Cars": "Polestar 2 (Standard range Single motor)",
+        "Battery Capacity (kWh)": "78",
+        "Range (miles)": "321",
+        "Charging Speed (miles/min)": "10.5"
+    },
+    {
+        "Cars": "Polestar 2 (Long range Single motor)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "406",
+        "Charging Speed (miles/min)": "16.9"
+    },
+    {
+        "Cars": "Polestar 2 (Long range Dual motor)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "367",
+        "Charging Speed (miles/min)": "15.3"
+    },
+    {
+        "Cars": "Porsche Taycan ",
+        "Battery Capacity (kWh)": "79",
+        "Range (miles)": "231",
+        "Charging Speed (miles/min)": "10.9"
+    },
+    {
+        "Cars": "Porsche Taycan (4S)",
+        "Battery Capacity (kWh)": "79.2",
+        "Range (miles)": "230",
+        "Charging Speed (miles/min)": "10.9"
+    },
+    {
+        "Cars": "Porsche Taycan (GTS)",
+        "Battery Capacity (kWh)": "93.4",
+        "Range (miles)": "273",
+        "Charging Speed (miles/min)": "13.2"
+    },
+    {
+        "Cars": "Porsche Taycan (Turbo S)",
+        "Battery Capacity (kWh)": "93.4",
+        "Range (miles)": "273",
+        "Charging Speed (miles/min)": "13.2"
+    },
+    {
+        "Cars": "Porsche Taycan (Turbo)",
+        "Battery Capacity (kWh)": "105",
+        "Range (miles)": "270",
+        "Charging Speed (miles/min)": "13"
+    },
+    {
+        "Cars": "Porsche Taycan (Plus)",
+        "Battery Capacity (kWh)": "79",
+        "Range (miles)": "231",
+        "Charging Speed (miles/min)": "11.1"
+    },
+    {
+        "Cars": "Porsche Taycan (4S Plus)",
+        "Battery Capacity (kWh)": "79",
+        "Range (miles)": "230",
+        "Charging Speed (miles/min)": "11.1"
+    },
+    {
+        "Cars": "Porsche Taycan (Sport Turismo)",
+        "Battery Capacity (kWh)": "89",
+        "Range (miles)": "222",
+        "Charging Speed (miles/min)": "10.5"
+    },
+    {
+        "Cars": "Porsche Taycan (4S Sport Turismo)",
+        "Battery Capacity (kWh)": "89",
+        "Range (miles)": "222",
+        "Charging Speed (miles/min)": "10.5"
+    },
+    {
+        "Cars": "Porsche Taycan (4 Cross Turismo)",
+        "Battery Capacity (kWh)": "100",
+        "Range (miles)": "258",
+        "Charging Speed (miles/min)": "12.4"
+    },
+    {
+        "Cars": "Porsche Taycan (4S Cross Turismo)",
+        "Battery Capacity (kWh)": "105",
+        "Range (miles)": "258",
+        "Charging Speed (miles/min)": "12.4"
+    },
+    {
+        "Cars": "Porsche Taycan (Turbo S Sport Turismo)",
+        "Battery Capacity (kWh)": "105",
+        "Range (miles)": "267",
+        "Charging Speed (miles/min)": "12.9"
+    },
+    {
+        "Cars": "Porsche Taycan (Turbo S Cross Turismo)",
+        "Battery Capacity (kWh)": "105",
+        "Range (miles)": "266",
+        "Charging Speed (miles/min)": "12.8"
+    },
+    {
+        "Cars": "Porsche Taycan (GTS Sport Turismo)",
+        "Battery Capacity (kWh)": "93.4",
+        "Range (miles)": "263",
+        "Charging Speed (miles/min)": "12.7"
+    },
+    {
+        "Cars": "Porsche Taycan (Turbo Cross Turismo)",
+        "Battery Capacity (kWh)": "105",
+        "Range (miles)": "263",
+        "Charging Speed (miles/min)": "12.7"
+    },
+    {
+        "Cars": "Porsche Taycan (Turbo Sport Turismo)",
+        "Battery Capacity (kWh)": "105",
+        "Range (miles)": "263",
+        "Charging Speed (miles/min)": "12.7"
+    },
+    {
+        "Cars": "Porsche Taycan (Plus Sport Turismo)",
+        "Battery Capacity (kWh)": "89",
+        "Range (miles)": "222",
+        "Charging Speed (miles/min)": "10.7"
+    },
+    {
+        "Cars": "Porsche Taycan (4S Plus Sport Turismo)",
+        "Battery Capacity (kWh)": "89",
+        "Range (miles)": "222",
+        "Charging Speed (miles/min)": "10.7"
+    },
+    {
+        "Cars": "Renault Megane E-Tech",
+        "Battery Capacity (kWh)": "60",
+        "Range (miles)": "280",
+        "Charging Speed (miles/min)": "10.1"
+    },
+    {
+        "Cars": "Renault Zoe ",
+        "Battery Capacity (kWh)": "52",
+        "Range (miles)": "239",
+        "Charging Speed (miles/min)": "3.8"
+    },
+    {
+        "Cars": "Skoda Enyaq Coupe iV (vRS)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "323",
+        "Charging Speed (miles/min)": "8.9"
+    },
+    {
+        "Cars": "Skoda Enyaq Coupe iV (80x Sportline Plus)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "321",
+        "Charging Speed (miles/min)": "8.8"
+    },
+    {
+        "Cars": "Skoda Enyaq Coupe iV (80 Sportline Plus)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "335",
+        "Charging Speed (miles/min)": "9.2"
+    },
+    {
+        "Cars": "Skoda Enyaq Coupe iV (80)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "345",
+        "Charging Speed (miles/min)": "9.5"
+    },
+    {
+        "Cars": "Skoda Enyaq iV (60)",
+        "Battery Capacity (kWh)": "62",
+        "Range (miles)": "246",
+        "Charging Speed (miles/min)": "7.9"
+    },
+    {
+        "Cars": "Skoda Enyaq iV (80)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "339",
+        "Charging Speed (miles/min)": "9.3"
+    },
+    {
+        "Cars": "Skoda Enyaq iV (80 Sportline Plus)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "332",
+        "Charging Speed (miles/min)": "9.1"
+    },
+    {
+        "Cars": "Skoda Enyaq iV (80x Sportline Plus)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "318",
+        "Charging Speed (miles/min)": "8.7"
+    },
+    {
+        "Cars": "Skoda Enyaq iV (vRS)",
+        "Battery Capacity (kWh)": "82",
+        "Range (miles)": "321",
+        "Charging Speed (miles/min)": "8.8"
+    },
+    {
+        "Cars": "Smart EQ fortwo (Coupe)",
+        "Battery Capacity (kWh)": "17.6",
+        "Range (miles)": "81",
+        "Charging Speed (miles/min)": "1.7"
+    },
+    {
+        "Cars": "Smart EQ fortwo (Cabrio)",
+        "Battery Capacity (kWh)": "17.6",
+        "Range (miles)": "77",
+        "Charging Speed (miles/min)": "1.6"
+    },
+    {
+        "Cars": "Subaru Solterra (Limited)",
+        "Battery Capacity (kWh)": "71.4",
+        "Range (miles)": "289",
+        "Charging Speed (miles/min)": "10.1"
+    },
+    {
+        "Cars": "Subaru Solterra (Touring)",
+        "Battery Capacity (kWh)": "71.4",
+        "Range (miles)": "257",
+        "Charging Speed (miles/min)": "9"
+    }
+]
