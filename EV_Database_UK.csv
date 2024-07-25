@@ -1,0 +1,186 @@
+Cars,Battery Capacity (kWh),Range (miles),Charging Speed (miles/min)
+Volkswagen ID.3 (Pro),58,269,9.3
+Volkswagen ID.3 (Pro S),58,356,13.1
+Volkswagen ID.4 (Pure Life),52,223,7.9
+Volkswagen ID.4 (Pro Life),77,326,9.5
+Volkswagen ID.4 (Pro Performance Life),77,325,9.5
+Volkswagen ID.4 (Pro Performance Style),77,322,9.4
+Volkswagen ID.4 (Pro Style),77,322,9.4
+Volkswagen ID.4 (Pro Performance 4MOTION),77,314,9.2
+Volkswagen ID.4 (Pure Performance Life),52,223,7.9
+Volkswagen ID.4 (Pure Style),52,221,7.8
+Volkswagen ID.4 (GTX),77,306,8.9
+Volkswagen ID.5 (Pro Performance Style),77,326,9.5
+Volkswagen ID.5 (Pro Tech),77,323,9.4
+Volkswagen ID.5 (GTX 4MOTION),77,313,11.5
+Volkswagen ID.Buzz,77,252,9.3
+Toyota bZ4X (Pure),71.4,271,9.5
+Toyota bZ4X (Motion),71.4,271,9.5
+Toyota bZ4X (Vision),71.4,271,9.5
+Toyota bZ4X (Motion 160 kW),71.4,255,9.5
+Toyota bZ4X (Vision 160 kW),71.4,255,8.9
+Volvo EC40 (Twin Motor),82,263,10.7
+Volvo EC40 (Single Motor),69,254,8
+Audi e-tron (GT),83.7,285,13.7
+Audi e-tron (RS),83.7,278,13.4
+Audi Q4 e-tron (40),82,278,7.6
+Audi Q4 e-tron (50),82,270,7.4
+Audi Q4 Sportback e-tron (40),82,277,7.6
+Audi Q4 Sportback e-tron (50),82,277,7.6
+Audi Q8 e-tron,95,255,6.7
+Audi Q8 Sportback e-tron,114,303,7.5
+Tesla Model Y (Long Range AWD),85,331,16.2
+Tesla Model Y (Performance),85,319,15.6
+Tesla Model Y,85,283,12.8
+BMW i4 M50,81.1,284,11.6
+BMW i4 eDrive35 (M Sport),67,276,11.8
+BMW i4 eDrive35 (Sport),67,284,12.1
+BMW i4 eDrive40 (M Sport),81.1,337,13.7
+BMW i4 eDrive40 (Sport),81.1,346,14.1
+BMW i7 xDrive60 (M Sport Pro),105.7,367,11.3
+BMW i7 xDrive60 (Excellence),105.7,360,11.1
+BMW i7 xDrive60 (Excellence Pro),105.7,360,11.1
+BMW iX xDrive40,76.6,253,8.3
+BMW iX xDrive50 M Sport,111.5,367,10.7
+BMW iX M60,111.5,338,9.9
+BMW iX xDrive40 M Sport,76.6,253,8.3
+BMW iX1,66.5,259,8.4
+BMW iX3 (M Sport Pro),80,280,8.8
+BMW iX3 (M Sport),80,284,8.9
+Tesla Model 3 (Rear-Wheel Drive),61,318,14.8
+Tesla Model 3 (Long Range All Wheel Drive),61,390,19.1
+BYD Atto3,60.48,260,6.3
+Citroen E - Berlingo (XL),52,167,5.6
+Citroen E - Berlingo (M),52,177,5.9
+Citroen E-C4,50,222,7.4
+Citroen E-C4 (54 kWh),54,260,8
+Citroen E-C4 (X 54 kWh),54,260,8
+Citroen E-SpaceTourer (M),50,136,4.5
+Citroen E-SpaceTourer (XL),50,134,4.5
+Cupra Born,58,223,7.7
+Cupra Born (58 kWh e-Boost),58,225,7.8
+Cupra Born (77 kWh e-Boost),77,306,8.9
+DS 3,54,232,7.2
+Fiat 500 (Convertible),42,191,6.4
+Fiat 500 (Electric),42,201,6.8
+Ford Mustang Mach-E (Select),72,202,5.2
+Ford Mustang Mach-E (GT),91,244,6.2
+Ford Mustang Mach-E (Premium RWD),91,293,7.5
+Ford Mustang Mach-E (Premium AWD),91,277,7.1
+Genesis Electrified G80,87.2,323,14.3
+Genesis GV60 (Premium),77.4,321,16.6
+Genesis GV60 (Sport Plus),77.4,289,14.9
+Genesis GV60 (Sport),77.4,292,15.1
+Genesis Electrified GV70,77.4,283,21.3
+Honda E,35.5,137,6.4
+Hyundai Ioniq 5 (Premium),58,239,12
+Hyundai Ioniq 5 (Ultimate AWD),77,282,14.2
+Hyundai Ioniq 5 (Namsan AWD),77,282,14.2
+Hyundai Ioniq 5 (Premium 77 AWD),77,299,15.1
+Hyundai Ioniq 5 (Ultimate),77,296,14.9
+Hyundai Ioniq 5 (Namsan),77,296,14.9
+Hyundai Ioniq 5 (Premium 77),77,315,15.9
+Hyundai Ioniq 6 (Ultimate),77,339,17
+Hyundai Ioniq 6 (Premium AWD),77,322,16.2
+Hyundai Ioniq 6 (Ultimate AWD),77,322,16.2
+Hyundai Ioniq 6 (First Edition AWD),77,322,16.2
+Hyundai Kona (SE Connect),39.2,190,9.2
+Hyundai Kona (Premium),39.2,190,9.2
+Hyundai Kona (Premium 64),64,301,13.3
+Hyundai Kona (Ultimate),64,301,13.3
+Jaguar I-Pace,90,290,5.4
+Kia EV6 (GT awd),77.4,263,14.6
+Kia EV6 (GT- Line S awd),77.4,300,16.7
+Kia EV6 (GT-Line awd),77.4,314,17.4
+Kia EV6 (GT-Line S rwd),77.4,313,17.4
+Kia EV6 (Air),77.4,328,18.2
+Kia EV6 (GT-Line rwd),77.4,328,18.2
+Kia Niro EV,64.8,285,5.2
+Kia Soul EV (Urban),39.2,171,5.2
+Kia Soul EV (Explore),64.8,280,5.3
+Lexus (RZ),71,272,9.5
+Lexus (UX),73,279,3.2
+Vauxhall Vivaro Life Electric,50,135,4.5
+Vauxhall Mokka,100,203,5.4
+Vauxhall Corsa,50,222,7.4
+Vauxhall Combo Life Electric,48,173,5.8
+Mazda MX-30,36,124,2.9
+Mercedes EQA (350 4Matic),66.5,260,6.5
+Mercedes EQA (300 4Matic),66.5,266,6.7
+Mercedes EQA (250+),70.5,321,7.6
+Mercedes EQB SUV (300 4Matic),66.5,253,6.3
+Mercedes EQB SUV (350 4Matic),66.5,253,6.3
+Mercedes EQC,80,254,5.9
+Mercedes EQE (AMG 53 4Matic+),90.56,291,9.1
+Mercedes EQE (300),89,388,12.4
+Mercedes EQE (350),96,368,11.7
+Mercedes EQE SUV (350 4Matic),89,334,10.6
+Mercedes EQE SUV (500 4Matic),89,324,10.1
+Mercedes EQE SUV (AMG 53 4Matic+),89,265,7.6
+Mercedes EQS (450+),118,452,13
+Mercedes EQS (EQS AMG 53 4Matic+),118,347,10
+Mercedes EQS SUV (450 4Matic) ,118,365,11.2
+Mercedes EQS SUV (580 4Matic) ,118,364,11.2
+Mercedes eVito Tourer ,90,213,5.9
+MG MG4 EV (SE),51,218,10.7
+MG MG4 EV (Trophy Long Range),51,270,10.5
+MG MG4 EV (SE Long Range),51,281,11
+MG MG5 EV (SE Long Range),61,250,10.2
+MG MG5 EV (Trophy Long Range),61,235,9.6
+MG ZS EV (SE),51,198,6.5
+MG ZS EV (SE Long Range),51,273,6.3
+MG ZS EV (Trophy),51,198,6.5
+MG ZS EV (Trophy Long Range),51,273,6.3
+Mini Electric ,33,144,3.7
+Nissan Ariya (63kWh Evolve),63,247,8.5
+Nissan Ariya (63kWh Advance),63,250,8.6
+Nissan Ariya (e-4orce 87kWh Evolve),87,314,7.8
+Nissan Ariya (e-4orce 87kWh Advance),87,319,7.9
+Nissan Ariya (87 kWh Evolve),87,322,8
+Nissan Ariya (87kWh Advance),87,329,8.2
+Nissan Leaf (Acenta),39,168,3.6
+Nissan Leaf (N-Connecta),39,168,3.6
+Nissan Leaf (Tekna),39,168,3.6
+Nissan Leaf (e+ N-Connecta),39,239,3.4
+Nissan Leaf (e+ Tekna),39,239,3.4
+Ora Funky Cat,48,193,4.3
+Peugeot e-2008,54,206,6.4
+Peugeot e-208,50,218,7.3
+Peugeot e-Rifter (Long 50 kWh Allure),50,152,5.1
+Peugeot e-Rifter,50,182,6.1
+Polestar 2 (Standard range Single motor),78,321,10.5
+Polestar 2 (Long range Single motor),82,406,16.9
+Polestar 2 (Long range Dual motor),82,367,15.3
+Porsche Taycan ,79,231,10.9
+Porsche Taycan (4S),79.2,230,10.9
+Porsche Taycan (GTS),93.4,273,13.2
+Porsche Taycan (Turbo S),93.4,273,13.2
+Porsche Taycan (Turbo),105,270,13
+Porsche Taycan (Plus),79,231,11.1
+Porsche Taycan (4S Plus),79,230,11.1
+Porsche Taycan (Sport Turismo),89,222,10.5
+Porsche Taycan (4S Sport Turismo),89,222,10.5
+Porsche Taycan (4 Cross Turismo),100,258,12.4
+Porsche Taycan (4S Cross Turismo),105,258,12.4
+Porsche Taycan (Turbo S Sport Turismo),105,267,12.9
+Porsche Taycan (Turbo S Cross Turismo),105,266,12.8
+Porsche Taycan (GTS Sport Turismo),93.4,263,12.7
+Porsche Taycan (Turbo Cross Turismo),105,263,12.7
+Porsche Taycan (Turbo Sport Turismo),105,263,12.7
+Porsche Taycan (Plus Sport Turismo),89,222,10.7
+Porsche Taycan (4S Plus Sport Turismo),89,222,10.7
+Renault Megane E-Tech,60,280,10.1
+Renault Zoe ,52,239,3.8
+Skoda Enyaq Coupe iV (vRS),82,323,8.9
+Skoda Enyaq Coupe iV (80x Sportline Plus),82,321,8.8
+Skoda Enyaq Coupe iV (80 Sportline Plus),82,335,9.2
+Skoda Enyaq Coupe iV (80),82,345,9.5
+Skoda Enyaq iV (60),62,246,7.9
+Skoda Enyaq iV (80),82,339,9.3
+Skoda Enyaq iV (80 Sportline Plus),82,332,9.1
+Skoda Enyaq iV (80x Sportline Plus),82,318,8.7
+Skoda Enyaq iV (vRS),82,321,8.8
+Smart EQ fortwo (Coupe),17.6,81,1.7
+Smart EQ fortwo (Cabrio),17.6,77,1.6
+Subaru Solterra (Limited),71.4,289,10.1
+Subaru Solterra (Touring),71.4,257,9
