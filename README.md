@@ -80,7 +80,7 @@ This part is split in two for this project:
 2. The GUI with the dashboard that our actual client (government or station owners) would see with all of their result metrics.
 
 ## Results  Technical Implementation
-The use of this optimization algorithm could potentially reduce EV energy consumption in up to 60%.
+The use of this optimization algorithm could potentially reduce EV energy consumption in up to 70% after vehicle number 20.
 
 ![ ](/Images/chargingstations.png)
 ![ ](/Images/energylosses.png)
