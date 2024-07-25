@@ -24,14 +24,6 @@ Within the scope of the project, the first metric has been fully developed and i
 
 ## Body of Research
 
-### The Process Behind the Problem Definition
-Before selecting the final problem statement, I led the group in conducting in-depth research and brainstorming sessions on potential problems to address to contribute to less climate change. The following list contains all the other ideas we discussed as a team:
-- Create a tool for sustainable farming to reduce pollution from the agroindustry.
-- Create a system to assign/limit energy to reduce energy use and light pollution in Canary Wharf.
-- Reduce the harm of AI by proposing a clean data center (reducing the amount of energy used).
-- Using AI/ML to reduce the carbon footprint of the fashion or construction industry.
-- Use hardware to simulate electronic vehicle charging and reduce the energy being utilized.
-
 ### Research and Realisation
 While researching, we encountered a lot of information on the sustainability of electronic vehicles being less promising than expected, so we decided to tackle this problem. Our main insight was discovering that more renewable energy does not necessarily mean less carbon emissions because this reduction depends on the grid the energy is interacting with, not the source of the energy itself. That notion of a “clean” energy not being as clean as we might think led us to formulate our next hypothesis: If EVs in the UK are being charged on a grid heavily reliant on fossil fuels, then we are not even using renewable energy.
 
@@ -55,12 +47,7 @@ The software developed uses the research previously mentioned to hit the four im
 ### Project Management, Development, and Deployment
 We developed a main charging algorithm (`algorithm.py`) in Python to optimize charging and allocate charging tasks between stations. The following list details the step-by-step functioning of our software:
 
-![ ](/Images/algorithmstructure.png)
-
-
-
-
-
+![ ](/Images/algorithmstructure.jpeg)
 
 #### a) User Inputs:
 - **Battery Level**: Current battery level of the EV.
@@ -92,77 +79,8 @@ This part is split in two for this project:
 1. The interface the user (EV owner looking to charge their car) sees and interacts with.
 2. The GUI with the dashboard that our actual client (government or station owners) would see with all of their result metrics.
 
-Both parts were developed in JavaScript/HTML and were locally hosted on our laptops.
+## Results  Technical Implementation
+The use of this optimization algorithm could potentially reduce EV energy consumption in up to 60%.
 
-### Project Management
-The team worked together in weekly meetings as well as separately on specific pieces of the work that had been split up. We shared a selection of collaborative project documents and tools including a Miro board for brainstorming, a selection of Google docs and spreadsheets, and a shared repository on GitHub.
-
-## Entrepreneurship
-
-Our innovative software aims to revolutionize the efficiency and environmental impact of electric vehicle (EV) charging systems by leveraging advanced computational technologies. By aligning with the societal goal of reducing energy loss and optimizing resource use, this software serves both economic and environmental needs.
-
-### Business Model Canvas (BMC)
-The following outlines a summary of our BMC:
-
-#### Key Partners
-- Governments
-- EV Station Owners
-- Google Maps API providers
-- Renewable energy suppliers
-
-#### Key Activities
-- Software development and maintenance
-- Real-time data integration
-- Customer support and training
-- Marketing and sales
-
-#### Key Resources
-- Advanced algorithms for dynamic programming
-- Real-time data integration systems
-- Load balancing technology
-- Skilled development and support team
-
-#### Value Propositions
-- Reduced energy loss and optimized charging efficiency
-- Real-time adjustments based on dynamic data
-- Improved load balancing across charging networks
-- Scalable solutions for small to large deployments
-
-#### Customer Relationships
-- Dedicated support for all packages
-- Customization options for unique requirements
-- Regular updates and improvements
-
-#### Channels
-- Direct sales to governments and EV station owners
-- Online marketing and webinars
-- Partnerships with renewable energy suppliers
-
-#### Customer Segments
-- Small EV station owners (1-10 stations)
-- Medium EV station networks (10-50 stations)
-- Large EV station networks (50+ stations)
-- Custom solutions for unique or large-scale deployments
-
-#### Cost Structure
-- Initial setup costs
-- Monthly subscription fees
-- Maintenance and support costs
-- Marketing and sales expenses
-
-#### Revenue Streams
-- Initial setup fees (ranging from $10,000 to $100,000+)
-- Monthly subscription fees (ranging from $500 to $2,500+ per month)
-- Custom package pricing based on specific needs
-
-### Financial Projections
-Taking into account this business model, we would expect to reach a revenue of 2.4 million dollars per year by year five and recover the initial investment of $500,000 by year two.
-
-## Accessibility, Inclusion, and Ethics
-
-### Ensuring Privacy and Security
-Attention to Stakeholder Impacts and Ethical Considerations
-Electra places a high priority on addressing stakeholder impacts and maintaining ethical standards, particularly regarding user privacy and data security.
-
-#### User Privacy and Data Security
--
+![ ](/Images/chargingstations.png)
+![ ](/Images/energylosses.png)
