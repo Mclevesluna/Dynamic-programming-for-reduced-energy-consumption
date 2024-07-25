@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EV Charging Stations Map</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px;
+        }
+
+        /* Set the size of the map */
+        #map {
+            height: 400px;
+            width: 60%;
+            /* place the map at the centre */
+            margin: auto;
+        }
+
+        /* Styling for the form */
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .form-group input, .form-group select {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+
+        button {
+            display: block;
+            margin: 20px 0;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        #carForm {
+            width: 80%;
+            margin: auto;
+        }
+    </style>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLjHdsR8lgPHUd4haJVIKPFgYnHvBsOF8&callback=initMap"></script>
+</head>
+<body>
+    <h1>EV Charging Stations</h1>
+    <div id="map"></div>
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
+
+    <h1>Car Details Form</h1>
+    <form id="carForm">
+        <div class="form-group">
+            <label for="batteryCapacity">Battery Capacity (kWh)</label>
+            <input type="number" id="batteryCapacity" name="batteryCapacity" placeholder="Enter battery capacity">
+        </div>
+        <div class="form-group">
+            <label for="carModel">Car Model Name</label>
+            <select id="carModel" name="carModel">
+                <option value="" selected>Select a car model</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="maxDuration">Max Duration (hours)</label>
+            <input type="number" id="maxDuration" name="maxDuration" placeholder="Enter max duration">
+        </div>
+        <button type="button">Submit</button>
+    </form>
+
+</body>
+</html>
+
