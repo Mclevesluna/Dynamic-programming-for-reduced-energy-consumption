@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Charging Plan and Visualization</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        .station {
+            border: 1px solid #000;
+            margin: 10px;
+            padding: 10px;
+            display: inline-block;
+            vertical-align: top;
+            width: 200px;
+        }
+        .car {
+            width: 10px;
+            height: 10px;
+            background-color: darkgreen;
+            border-radius: 50%;
+            display: inline-block;
+            margin: 2px;
+        }
+        .container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .totals {
+            margin-top: 20px;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Charging Station Visualization</h1>
+    <div class="container">
+        <div id="random-charging">
+            <h2>Random Charging Scenario</h2>
+            <div id="random-stations"></div>
+            <div class="totals" id="random-totals"></div>
+        </div>
+        <div id="optimized-charging">
+            <h2>Optimized Charging Scenario</h2>
+            <div id="optimized-stations"></div>
+            <div class="totals" id="optimized-totals"></div>
+        </div>
+    </div>
+
+    <h1>Accumulated Energy Losses</h1>
+    <canvas id="energyLossesChart" width="400" height="200"></canvas>
+
+    <h1>Charging Plan</h1>
+
+    <h2>Optimized Charging Plan</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Vehicle Type</th>
+                <th>Station ID</th>
+                <th>Current Battery Level</th>
+                <th>Max Duration</th>
+                <th>Energy Requirement</th>
+                <th>Charging Rate</th>
+                <th>Actual Charging Duration (hours)</th>
+                <th>Final Battery Level</th>
+                <th>Station Current Load</th>
+                <th>Energy Losses</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for plan in optimized_charging_plan %}
+            <tr>
+                <td>{{ plan.vehicle_type }}</td>
+                <td>{{ plan.station_id }}</td>
+                <td>{{ plan.current_battery_level }}</td>
+                <td>{{ plan.max_duration }}</td>
+                <td>{{ plan.energy_requirement }}</td>
+                <td>{{ plan.charging_rate }}</td>
+                <td>{{ plan.actual_charging_duration_hours }}</td>
+                <td>{{ plan.final_battery_level }}</td>
+                <td>{{ plan.station_current_load }}</td>
+                <td>{{ plan.energy_losses }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <h2>Random Charging Plan</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Vehicle Type</th>
+                <th>Station ID</th>
+                <th>Current Battery Level</th>
+                <th>Max Duration</th>
+                <th>Energy Requirement</th>
+                <th>Charging Rate</th>
+                <th>Actual Charging Duration (hours)</th>
+                <th>Final Battery Level</th>
+                <th>Station Current Load</th>
+                <th>Energy Losses</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for plan in random_charging_plan %}
+            <tr>
+                <td>{{ plan.vehicle_type }}</td>
+                <td>{{ plan.station_id }}</td>
+                <td>{{ plan.current_battery_level }}</td>
+                <td>{{ plan.max_duration }}</td>
+                <td>{{ plan.energy_requirement_rdm }}</td>
+                <td>{{ plan.charging_rate }}</td>
+                <td>{{ plan.actual_charging_duration_hours }}</td>
+                <td>{{ plan.final_battery_level }}</td>
+                <td>{{ plan.station_current_load }}</td>
+                <td>{{ plan.energy_losses }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <p><strong>Total Optimized Energy Losses:</strong> {{ total_optimized_losses }} kWh</p>
+    <p><strong>Total Random Energy Losses:</strong> {{ total_random_losses }} kWh</p>
+
+    <script>
+        const randomChargingPlan = JSON.parse('{{ random_charging_plan | tojson | safe }}');
+        const optimizedChargingPlan = JSON.parse('{{ optimized_charging_plan | tojson | safe }}');
+
+        function createVisualization(containerId, chargingPlan, totalsId) {
+            const stations = {};
+            let totalEnergyLosses = 0;
+            let totalLoad = 0;
+            let totalChargingRate = 0;
+            let carCount = 0;
+
+            // Group cars by station and calculate totals
+            chargingPlan.forEach(plan => {
+                const stationId = plan.station_id;
+                if (!stations[stationId]) {
+                    stations[stationId] = [];
+                }
+                stations[stationId].push(plan);
+                totalEnergyLosses += plan.energy_losses;
+                totalLoad += plan.station_current_load;
+                totalChargingRate += plan.charging_rate;
+                carCount += 1;
+            });
+
+            const container = document.getElementById(containerId);
+            for (const [stationId, cars] of Object.entries(stations)) {
+                const stationDiv = document.createElement('div');
+                stationDiv.className = 'station';
+                stationDiv.innerHTML = `<h3>Station ${stationId}</h3>`;
+
+                cars.forEach(() => {
+                    const carDiv = document.createElement('div');
+                    carDiv.className = 'car';
+                    stationDiv.appendChild(carDiv);
+                });
+
+                container.appendChild(stationDiv);
+            }
+
+            const totalsDiv = document.getElementById(totalsId);
+            const avgLoad = (totalLoad / carCount).toFixed(2);
+            const avgChargingRate = (totalChargingRate / carCount).toFixed(2);
+
+            totalsDiv.innerHTML = `
+                <p><strong>Total Energy Losses:</strong> ${totalEnergyLosses.toFixed(2)} kWh</p>
+                <p><strong>Average Load:</strong> ${avgLoad} kW</p>
+                <p><strong>Average Charging Speed:</strong> ${avgChargingRate} kW</p>
+            `;
+        }
+
+        createVisualization('random-stations', randomChargingPlan, 'random-totals');
+        createVisualization('optimized-stations', optimizedChargingPlan, 'optimized-totals');
+
+        // Function to calculate accumulated energy losses
+        function calculateAccumulatedLosses(chargingPlan) {
+            let accumulatedLosses = [];
+            let totalLosses = 0;
+
+            chargingPlan.forEach(plan => {
+                totalLosses += plan.energy_losses;
+                accumulatedLosses.push(totalLosses);
+            });
+
+            return accumulatedLosses;
+        }
+
+        const randomAccumulatedLosses = calculateAccumulatedLosses(randomChargingPlan);
+        const optimizedAccumulatedLosses = calculateAccumulatedLosses(optimizedChargingPlan);
+
+        // Create the chart
+        const ctx = document.getElementById('energyLossesChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: Array.from({length: randomAccumulatedLosses.length}, (_, i) => i + 1),
+                datasets: [
+                    {
+                        label: 'Random Charging Plan',
+                        data: randomAccumulatedLosses,
+                        borderColor: 'red',
+                        fill: false
+                    },
+                    {
+                        label: 'Optimized Charging Plan',
+                        data: optimizedAccumulatedLosses,
+                        borderColor: 'green',
+                        fill: false
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Vehicle Index'
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: 'Accumulated Energy Losses (kWh)'
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
+
+
+
+
+
