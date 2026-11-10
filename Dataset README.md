@@ -15,11 +15,12 @@ The dataset includes the following information for each EV model:
 
 - _Author 1:_ Ishaan ([ishaan_b@yahoo.com])
 - _Author 2:_ Yunjie Huang ([huangyunjie719@gmail.com])
-- _Contributor:_ Richa Sharma ([richasharma1496@gmail.com])
+- _Author 3:_  Manuela Cleves ([m.cleves1711@gmail.com])
+- _Author 4:_  Richa Sharma ([richasharma1496@gmail.com])
 - _Creation Date:_ 2024-05-09
 - _Citation:_ If you use this dataset in your work, please cite it as follows:
   ```
-  [Ishaan, Yunjie Huang, Richa Sharma]. (2024). EV Cars in UK with their Charging Specifications Dataset. Retrieved from [https://www.kaggle.com/datasets/i1shaan/ev-cars-in-uk-with-charging-specifications-dataset]
+  [Ishaan, Huang, Cleves, Sharma]. (2024). EV Cars in UK with their Charging Specifications Dataset. Retrieved from [https://www.kaggle.com/datasets/i1shaan/ev-cars-in-uk-with-charging-specifications-dataset]
   ```
 
 ## Data Sources
